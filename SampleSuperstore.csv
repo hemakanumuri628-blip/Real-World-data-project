@@ -1,0 +1,11 @@
+Order ID,Order Date,Ship Mode,Segment,Country,City,State,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+CA-2019-152156,08-11-2019,Second Class,Consumer,USA,New York City,New York,East,Technology,Phones,261.96,2,0,41.91
+CA-2019-138688,12-06-2019,Second Class,Corporate,USA,Los Angeles,California,West,Furniture,Chairs,731.94,3,0,219.58
+US-2018-108966,11-10-2018,Standard Class,Consumer,USA,Seattle,Washington,West,Office Supplies,Labels,14.62,2,0,6.87
+CA-2017-115812,09-06-2017,Standard Class,Corporate,USA,Chicago,Illinois,Central,Technology,Phones,957.58,5,0.2,90.72
+CA-2017-114412,05-04-2017,Standard Class,Consumer,USA,Houston,Texas,Central,Furniture,Bookcases,48.86,2,0.2,-15.44
+CA-2016-161389,10-12-2016,Second Class,Consumer,USA,Phoenix,Arizona,West,Office Supplies,Storage,22.36,3,0,2.52
+CA-2016-118983,11-11-2016,Standard Class,Corporate,USA,San Diego,California,West,Technology,Accessories,7.28,4,0,1.97
+CA-2015-105417,06-09-2015,First Class,Consumer,USA,Dallas,Texas,Central,Furniture,Tables,71.37,1,0.3,-20.02
+CA-2015-100895,07-05-2015,Second Class,Corporate,USA,Newark,New Jersey,East,Office Supplies,Paper,19.44,3,0,9.33
+CA-2015-137330,09-02-2015,Standard Class,Consumer,USA,San Francisco,California,West,Technology,Phones,99.98,2,0,17.49
